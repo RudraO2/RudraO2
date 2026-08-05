@@ -5,14 +5,14 @@
   - To recolor every card at once, change theme=tokyonight (try: radical, github_dark, catppuccin_mocha, dracula).
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6E14,100:DE3A00&height=180&section=header&text=Rudra%20Pratap%20Singh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=I%20build%20small%20apps%20and%20actually%20ship%20them&descSize=16&descAlignY=56" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A3D,100:F03C02&height=180&section=header&text=Rudra%20Pratap%20Singh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=I%20build%20small%20apps%20and%20actually%20ship%20them&descSize=16&descAlignY=56" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FF6E14&center=true&vCenter=true&width=620&lines=Data+Science+student+%40+IIT+Madras;I+build+small+apps+and+actually+ship+them;React+Native+%7C+Next.js+%7C+Python+%7C+LLMs" alt="what I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FF8A3D&center=true&vCenter=true&width=620&lines=Data+Science+student+%40+IIT+Madras;I+build+small+apps+and+actually+ship+them;React+Native+%7C+Next.js+%7C+Python+%7C+LLMs" alt="what I do" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RudraO2&style=flat&color=FF6E14&label=Profile+views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RudraO2&style=flat&color=FF8A3D&label=Profile+views" alt="profile views" />
 </p>
 
 Data Science student at IIT Madras, based in Jaipur. I build small apps to fix things that annoy me, then I actually ship them. My phone kept showing 5G on a 4G tower, so I built something that reads the real signal. I wanted notes that gave nothing away if someone grabbed my phone, so I built one that hides them as code.
@@ -61,7 +61,7 @@ Data Science student at IIT Madras, based in Jaipur. I build small apps to fix t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RudraO2&hide_border=true&background=00000000&stroke=30363D&ring=FF6E14&fire=DE3A00&currStreakNum=C9D1D9&currStreakLabel=FF6E14&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=RudraO2&hide_border=true&background=00000000&stroke=30363D&ring=FF8A3D&fire=F03C02&currStreakNum=C9D1D9&currStreakLabel=FF8A3D&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681" alt="streak" />
 </p>
 
 ## 🐍 Watch the snake eat my contributions
