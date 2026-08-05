@@ -1,11 +1,11 @@
 <!--
   FILL LATER:
   - Replace YOUR-LINKEDIN below with your real LinkedIn handle.
-  - Everything else (stats, streak, languages) auto-updates from your real GitHub activity.
+  - Everything else (stats, streak, languages, snake) auto-updates from your real GitHub activity.
   - To recolor every card at once, change theme=tokyonight (try: radical, github_dark, catppuccin_mocha, dracula).
 -->
 
-<h1 align="center">Hi, I'm Rudra 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=180&section=header&text=Rudra%20Pratap%20Singh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=I%20build%20small%20apps%20and%20actually%20ship%20them&descSize=16&descAlignY=56" alt="header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Data+Science+student+%40+IIT+Madras;I+build+small+apps+and+actually+ship+them;React+Native+%7C+Next.js+%7C+Python+%7C+LLMs" alt="what I do" />
@@ -66,6 +66,16 @@ Data Science student at IIT Madras, based in Jaipur. I build small apps to fix t
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RudraO2&hide_border=true&theme=tokyonight" alt="streak" />
+</p>
+
+## 🐍 Watch the snake eat my contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RudraO2/RudraO2/output/github-snake-dark.svg" alt="contribution snake" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RudraO2&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 ## 🤝 Connect
