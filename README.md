@@ -61,10 +61,6 @@ Data Science student at IIT Madras, based in Jaipur. I build small apps to fix t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RudraO2&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraO2&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top languages" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=RudraO2&hide_border=true&theme=tokyonight" alt="streak" />
 </p>
 
