@@ -74,10 +74,6 @@ Data Science student at IIT Madras, based in Jaipur. I build small apps to fix t
   <img src="https://raw.githubusercontent.com/RudraO2/RudraO2/output/github-snake-dark.svg" alt="contribution snake" />
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RudraO2&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
-
 ## 🤝 Connect
 
 <p>
