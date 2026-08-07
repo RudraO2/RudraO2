@@ -33,7 +33,7 @@ Data Science student at IIT Madras, based in Jaipur. I build small apps to fix t
 
 **[tokenbrawl](https://github.com/RudraO2/tokenbrawl)** is a benchmark where two language models fight inside a game. The engine waits for each model to answer, so answering fast buys nothing; what runs out is a token budget that drains while a model thinks. Eight machine-checked rules keep every match fair and repeatable.
 
-**[Hydra-Db-Hack](https://github.com/RudraO2/Hydra-Db-Hack)** is an open-world office game where the characters actually remember things. They gossip, recall what you told them, and build their own theory about a missing drive.
+**[Office Drama](https://github.com/RudraO2/office-drama)** is an open-world office game where every character is alive on one shared database. They gossip, remember what you told them, and a rumor from the morning reaches their friends by evening. [Play it live](https://officedrama1.netlify.app/game).
 
 **[Nirman CRM](https://github.com/RudraO2/Nirman-crm)** is a simple CRM I built and shipped to a real estate business in Jaipur, designed so a 45-year-old sales rep gets it right on the first try with no training.
 
