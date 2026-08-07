@@ -27,7 +27,7 @@ Data Science student at IIT Madras, based in Jaipur. I build small apps to fix t
 
 **[Ghostpad](https://github.com/RudraO2/ghostpad)** looks like a plain notes app but is really a private messenger. It disguises your texts as code and hands them off over WhatsApp, so a glance at the screen looks like someone studying, not chatting.
 
-**[NSE Screener](https://github.com/RudraO2/nse-screener)** reads where the Indian market sits in its cycle, then ranks momentum stocks inside the sectors money is flowing into.
+**[NSE Screener](https://github.com/RudraO2/nse-screener)** reads where the Indian market sits in its cycle, then ranks momentum stocks inside the sectors money is flowing into. [Try it live](https://nse-screener1.streamlit.app).
 
 ## 🏗️ Bigger builds
 
