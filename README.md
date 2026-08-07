@@ -17,6 +17,8 @@
 
 Data Science student at IIT Madras, based in Jaipur. I build small apps to fix things that annoy me, then I actually ship them. My phone kept showing 5G on a 4G tower, so I built something that reads the real signal. I wanted notes that gave nothing away if someone grabbed my phone, so I built one that hides them as code.
 
+**Try something live right now:** [Office Drama](https://officedrama1.netlify.app/game) (a game where the NPCs remember you) · [NSE Screener](https://nse-screener1.streamlit.app) (a live Indian-market stock screener)
+
 ## 📲 Install and try
 
 **[TrueG](https://github.com/RudraO2/TrueG)** tells you whether your phone is really on 5G or just showing the icon. [Download the APK](https://github.com/RudraO2/TrueG/releases).
