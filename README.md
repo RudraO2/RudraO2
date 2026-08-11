@@ -62,11 +62,24 @@ Data Science student at IIT Madras, based in Jaipur. I build small apps to fix t
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+## 🧑‍💻 whoami
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RudraO2&hide_border=true&background=00000000&stroke=30363D&ring=FF8A3D&fire=F03C02&currStreakNum=C9D1D9&currStreakLabel=FF8A3D&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681" alt="streak" />
-</p>
+```
+╭────────────────────────────────────────────────────────────╮
+│ rudra@github:~$ whoami                                     │
+│                                                            │
+│   Rudra Pratap Singh                                       │
+│   Data Science @ IIT Madras  ·  Jaipur, India              │
+│                                                            │
+│   builds      small apps, then actually ships them         │
+│   shipping    TrueG · 6 Months Left · Ghostpad             │
+│   live now    Office Drama · NSE Screener · NoBS Timer     │
+│   stack       React Native · Next.js · Kotlin · Python     │
+│   also        LLMs · security research · game systems      │
+│                                                            │
+│   github.com/RudraO2      rpxi18@gmail.com                 │
+╰────────────────────────────────────────────────────────────╯
+```
 
 ## 🐍 Watch the snake eat my contributions
 
