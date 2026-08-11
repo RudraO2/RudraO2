@@ -62,24 +62,19 @@ Data Science student at IIT Madras, based in Jaipur. I build small apps to fix t
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 🧑‍💻 whoami
+## 📊 GitHub in numbers
 
-```
-╭────────────────────────────────────────────────────────────╮
-│ rudra@github:~$ whoami                                     │
-│                                                            │
-│   Rudra Pratap Singh                                       │
-│   Data Science @ IIT Madras  ·  Jaipur, India              │
-│                                                            │
-│   builds      small apps, then actually ships them         │
-│   shipping    TrueG · 6 Months Left · Ghostpad             │
-│   live now    Office Drama · NSE Screener · NoBS Timer     │
-│   stack       React Native · Next.js · Kotlin · Python     │
-│   also        LLMs · security research · game systems      │
-│                                                            │
-│   github.com/RudraO2      rpxi18@gmail.com                 │
-╰────────────────────────────────────────────────────────────╯
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RudraO2/RudraO2/profile-summary-card-output/github_dark/0-profile-details.svg" width="82%" alt="profile details" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RudraO2/RudraO2/profile-summary-card-output/github_dark/3-stats.svg" height="195" alt="stats" />
+  <img src="https://raw.githubusercontent.com/RudraO2/RudraO2/profile-summary-card-output/github_dark/4-productive-time.svg" height="195" alt="productive time" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RudraO2/RudraO2/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="195" alt="repos per language" />
+  <img src="https://raw.githubusercontent.com/RudraO2/RudraO2/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="195" alt="most used languages" />
+</p>
 
 ## 🐍 Watch the snake eat my contributions
 
