@@ -1,10 +1,3 @@
-<!--
-  FILL LATER:
-  - Replace YOUR-LINKEDIN below with your real LinkedIn handle.
-  - Everything else (stats, streak, languages, snake) auto-updates from your real GitHub activity.
-  - To recolor every card at once, change theme=tokyonight (try: radical, github_dark, catppuccin_mocha, dracula).
--->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A3D,100:F03C02&height=180&section=header&text=Rudra%20Pratap%20Singh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=I%20build%20small%20apps%20and%20actually%20ship%20them&descSize=16&descAlignY=56" alt="header" />
 
 <p align="center">
@@ -15,7 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=RudraO2&style=flat&color=FF8A3D&label=Profile+views" alt="profile views" />
 </p>
 
-Data Science student at IIT Madras, based in Jaipur. I build small apps to fix things that annoy me, then I actually ship them. My phone kept showing 5G on a 4G tower, so I built something that reads the real signal. I wanted notes that gave nothing away if someone grabbed my phone, so I built one that hides them as code.
+I'm Rudra Pratap Singh, also known online as Rudra Techie (and earlier as Rudra O2). Developer from Jaipur, India, BS in Data Science student at IIT Madras. I won HackPulse 2026 at UEM Jaipur and finished 3rd runner up at Agora EchoSphere 2026. Portfolio: [rudratechie.xyz](https://rudratechie.xyz).
+
+I build small apps to fix things that annoy me, then I actually ship them. My phone kept showing 5G on a 4G tower, so I built something that reads the real signal. I wanted notes that gave nothing away if someone grabbed my phone, so I built one that hides them as code.
 
 **Try something live right now:** [Office Drama](https://officedrama1.netlify.app/game) (a game where the NPCs remember you) · [NSE Screener](https://nse-screener1.streamlit.app) (a live Indian-market stock screener) · [NoBS Timer](https://rudrao2.github.io/nobs-timer/) (a one-tap study timer you can install)
 
@@ -85,9 +80,10 @@ Data Science student at IIT Madras, based in Jaipur. I build small apps to fix t
 ## 🤝 Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rpxi18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/RudraO2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://rudratechie.xyz"><img src="https://img.shields.io/badge/Website-rudratechie.xyz-FF8A3D?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rudratechie/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/rudratechie"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:rudra.pratap.12233@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <sub><i>Most of what I build gets used before it gets posted. Fixing that second part now.</i></sub>
