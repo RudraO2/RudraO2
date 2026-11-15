@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A3D,100:F03C02&height=180&section=header&text=Rudra%20Pratap%20Singh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=I%20build%20small%20apps%20and%20actually%20ship%20them&descSize=16&descAlignY=56" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A3D,100:F03C02&height=180&section=header&text=Rudra%20Pratap%20Singh%20Inda&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=I%20build%20small%20apps%20and%20actually%20ship%20them&descSize=16&descAlignY=56" alt="header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FF8A3D&center=true&vCenter=true&width=620&lines=Data+Science+student+%40+IIT+Madras;I+build+small+apps+and+actually+ship+them;React+Native+%7C+Next.js+%7C+Python+%7C+LLMs" alt="what I do" />
@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=RudraO2&style=flat&color=FF8A3D&label=Profile+views" alt="profile views" />
 </p>
 
-I'm Rudra Pratap Singh, also known online as Rudra Techie (and earlier as Rudra O2). Developer from Jaipur, India, BS in Data Science student at IIT Madras. I won HackPulse 2026 at UEM Jaipur and finished 3rd runner up at Agora EchoSphere 2026. Portfolio: [rudratechie.xyz](https://rudratechie.xyz).
+I'm Rudra Pratap Singh Inda, also known online as Rudra Techie (and earlier as Rudra O2). Developer from Jaipur, India, BS in Data Science student at IIT Madras. I won HackPulse 2026 at UEM Jaipur and finished 3rd runner up at Agora EchoSphere 2026. Portfolio: [rudratechie.xyz](https://rudratechie.xyz).
 
 I build small apps to fix things that annoy me, then I actually ship them. My phone kept showing 5G on a 4G tower, so I built something that reads the real signal. I wanted notes that gave nothing away if someone grabbed my phone, so I built one that hides them as code.
 
